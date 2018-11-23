@@ -5,9 +5,9 @@ projects's url: https://eniro.github.io/Songlist/
 Simple React App with song list and song details.
 Languages and tools used: React.JS, Redux, CSS3, HTML5, Semantic-UI.
 
-![screenshot]()
+![screenshot](https://github.com/eniro/Songlist/blob/master/screenshots/Capture.JPG)
 
-![screenshot1]()
+![screenshot1](https://github.com/eniro/Songlist/blob/master/screenshots/Capture1.JPG)
 
 <h3>Running the app:</h3>
 
